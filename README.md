@@ -6,7 +6,7 @@ A Full Stack developer from Argentina, looking to get on board into tech world
 
 🌱 I’m currently learning full stack course from HENRY
 
-👨‍💻 All of my projects are available at
+👨‍💻 All of my projects are available at https://github.com/alexis120595?tab=repositories
 
 💬 Ask me about react, nodejs, redux, express
 
