@@ -1,6 +1,6 @@
 Hi 👋, I'm Alexis Villafañe
 
-A Full Stack developer from Argentina, looking to get on board into tech world
+A Backend developer from Argentina, looking to get on board into tech world
 
 ⚡ Who am i? I am Alexis Villafañe, I am 28 years old, and I am from Argentina. I am constantly searching for technologies that can enhance my experience as a developer, using different frameworks and languages. I want to apply my knowledge in the world of development to collaborate on significant projects 😵‍💫.
 
@@ -8,7 +8,7 @@ A Full Stack developer from Argentina, looking to get on board into tech world
 
 👨‍💻 All of my projects are available at https://github.com/alexis120595?tab=repositories
 
-💬 Ask me about react, nodejs, redux, express
+💬 Ask me about Python, Nodejs, Sql, Express, Machine Learning
 
 📫 How to reach me alenegro0512@gmail.com
 
