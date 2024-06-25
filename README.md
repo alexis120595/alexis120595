@@ -1,4 +1,4 @@
-<h1>Hi</h1>👋, I'm Alexis Villafañe
+<h1>Hi👋, I'm Alexis Villafañe</h1>
 
 A Backend developer from Argentina, looking to get on board into tech world
 
