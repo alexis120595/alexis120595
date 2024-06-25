@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/alexis120595/alexis120595.github.io](https://github.com/alexis120595/alexis120595.github.io)
+- 👨‍💻 All of my projects are available at (https://github.com/alexis120595/alexis120595.github.io)
 
 - 💬 Ask me about **Python, React, SQL, FastApi**
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alexis villafañe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexis villafañe" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alexis-villafa%C3%B1e-06176a243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexis villafañe" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
