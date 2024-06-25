@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at (https://github.com/alexis120595/alexis120595.github.io)
+- 👨‍💻 All of my projects are available at (https://alexis120595.github.io)
 
 - 💬 Ask me about **Python, React, SQL, FastApi**
 
